@@ -3,6 +3,7 @@ body{
 }
 .container{
 	width:900px;
+	float:left;
 }
 
 .img-thumbnail{
@@ -26,6 +27,8 @@ body{
 nav{
 	text-align: center;
 }
+
+
 
 
 
